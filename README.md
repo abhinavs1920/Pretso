@@ -1,5 +1,7 @@
 # Pretso
-App for saving messages with their corresponding geographical location. 
+App for saving messages with their corresponding geographical location.
+
+***Work Under Process***
 
 ## Features 
 
